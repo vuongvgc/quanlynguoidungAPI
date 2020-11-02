@@ -1,0 +1,9 @@
+MVC
+Model chứa các đối tượng FE hoặc các câu truy vấn với BE. chứa dữ liệu truyền cho control như JSON
+View: hiển thị trên UI
+Control: chứa các function  xử lý các dữ liệu để truyền cho view để hiển thị. Xử lý dữ liệu từ view để tương tác với Model
+API Good
+POST: create
+GET: Read
+PUT: update
+Delete: delete
